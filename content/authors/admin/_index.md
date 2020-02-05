@@ -65,6 +65,17 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As a person, I am self-ambitious, self-motivated, goal-focused and confident. There is a drive-in me to excel in whatever task I undertake. I love challenges and never hesitate to work extra hard to achieve the objectives.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Having gained considerable work experience of 2years in one of the leading IT firms, "Tata Consultancy Services(TCS)", I am now pursuing my Masters in Computer Science at the "University of Texas at Arlington" to delve deeper into the areas of my interest.
+
+Skilled in Core Java, Python, AEM, MySql, Android, HTML during my Bachelor's and Professional career. Extensive knowledge of software languages like C, C++, Core Java, Python, PHP.
+
+Areas of interest: "Web & Mobile Development" and  "Data Structures and Algorithms".
+
+Programming : C, C++, Java, PHP, Python 
+WebTechnologies : HTML, CSS, Javascript, HTL(AEM) 
+FRAMEWORKS : Bootstrap 
+Databases : MySQL 
+Tools : Eclipse, CRXDE, PyCharm, AndroidStudio, Jira, Jenkins, GIT, 
+Languages : English,Telugu,Hindi,Oriya
