@@ -13,9 +13,9 @@ title = "Biography"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 
-[background]
+[design.background]
 
-image = "hero.jpg"  
+image = "static/img/hero.jpg"  
 
 # Name of image in `static/img/`.
 
