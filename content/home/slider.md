@@ -17,14 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello"
-  content = "class A {
-
-​			public static void main(String args[]){
-
-​			System.out.println("Hello World");
-
-​		 }
-​	}"
+  content = "System.out.println('I am a Software Enthusiast');"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -43,7 +36,7 @@ height = ""
 
 [[item]]
   title = "Hello"
-  content = "I am center aligned :smile:"
+  content = "print('I am A FullStack Developer')"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
@@ -52,7 +45,7 @@ height = ""
 
 [[item]]
   title = "Hello"
-  content = "I am center aligned :smile:"
+  content = "Toast.makeText(getActivity(), 'This is my Toast message!',Toast.LENGTH_LONG).show();"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
