@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "AEM Developer(9A0-384) Certification"
   url = ""
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = "2018-11-013"
   date_end = ""
   description = ""
 
