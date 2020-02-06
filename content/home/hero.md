@@ -57,5 +57,3 @@ image_parallax = true
   icon_pack = "fas"
   icon = "download"
 
-# 
-
