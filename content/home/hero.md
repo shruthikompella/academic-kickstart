@@ -57,17 +57,10 @@ image_parallax = true
   icon_pack = "fas"
   icon = "download"
 
-# Note. An optional note to show underneath the links.
-# [cta_note]  
-
-# label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
-
-
-
-+++
-
-# Software Enthusiast
-
-# FullStack Developer
-
+```html
+~~~~
+Software Enthusiast
+FullStack Developer
+~~~~
+```
 
