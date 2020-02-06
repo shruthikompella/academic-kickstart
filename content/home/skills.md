@@ -45,9 +45,9 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "android"
+  icon = "js"
   icon_pack = "fab"
-  name = "ANDROID"
+  name = "Javascript"
   description = ""
 
 [[feature]]
@@ -63,9 +63,27 @@ subtitle = ""
   description = ""  
 
 [[feature]]
+  icon = "android"
+  icon_pack = "fab"
+  name = "Android"
+  description = ""
+
+[[feature]]
   icon = "git"
   icon_pack = "fab"
   name = "GIT"
+  description = ""
+
+[[feature]]
+  icon = "jenkins"
+  icon_pack = "fab"
+  name = "Jenkins"
+  description = ""  
+
+[[feature]]
+  icon = "jira"
+  icon_pack = "fab"
+  name = "Jira"
   description = ""
 
 
