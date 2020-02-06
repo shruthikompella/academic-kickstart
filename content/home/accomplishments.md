@@ -21,10 +21,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Adobe"
   organization_url = "https://www.adobe.com"
-  title = "AEM Developer (9A0-384) Certification"
+  title = "AEM Developer(9A0-384) Certification"
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2018-10-01"
   date_end = ""
   description = ""
 
