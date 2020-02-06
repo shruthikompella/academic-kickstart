@@ -17,8 +17,16 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello"
-  content = "I am center aligned :smile:"
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
+
+```
+class A {
+ public static void main(String args[]){
+     System.out.println("Hello World");
+ }
+}
+```
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -39,8 +47,8 @@ height = ""
   content = "I am center aligned :smile:"
   align = "center"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "hero.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -48,8 +56,8 @@ height = ""
   content = "I am center aligned :smile:"
   align = "center"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "hero.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 +++
