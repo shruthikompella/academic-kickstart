@@ -66,8 +66,8 @@ image_parallax = true
 
 +++
 
-# The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)
+# Software Enthusiast
 
-# Build **Anything** with Widgets
+# FullStack Developer
 
 
