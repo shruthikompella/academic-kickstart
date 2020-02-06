@@ -15,21 +15,57 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "java"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "JAVA"
+  description = ""
+
 [[feature]]
-  icon = "chart-line"
+  icon = "python"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Python"
+  description = ""  
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "adobe"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Adobe Experience Manager"
+  description = ""
+
+[[feature]]
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML"
+  description = ""
+
+[[feature]]
+  icon = "css3-alt"
+  icon_pack = "fas"
+  name = "CSS"
+  description = ""  c
+
+[[feature]]
+  icon = "android"
+  icon_pack = "fas"
+  name = "ANDROID"
+  description = ""
+
+[[feature]]
+  icon = "node-js"
+  icon_pack = "fab"
+  name = "Node JS"
+  description = ""
+
+[[feature]]
+  icon = "react"
+  icon_pack = "fas"
+  name = "React"
+  description = ""  
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fas"
+  name = "GIT"
+  description = ""
 
 +++
