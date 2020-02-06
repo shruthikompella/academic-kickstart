@@ -22,13 +22,13 @@ subtitle = ""
 
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = ""  
 
 [[feature]]
   icon = "adobe"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Adobe Experience Manager"
   description = ""
 
@@ -40,31 +40,31 @@ subtitle = ""
 
 [[feature]]
   icon = "css3-alt"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "CSS"
   description = ""  c
 
 [[feature]]
   icon = "android"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "ANDROID"
   description = ""
 
 [[feature]]
-  icon = "node-js"
+  icon = "node"
   icon_pack = "fab"
   name = "Node JS"
   description = ""
 
 [[feature]]
   icon = "react"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "React"
   description = ""  
 
 [[feature]]
   icon = "git"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "GIT"
   description = ""
 
