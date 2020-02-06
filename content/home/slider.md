@@ -17,16 +17,15 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello"
-  content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
+  content = "class A {
 
-```
-class A {
- public static void main(String args[]){
-     System.out.println("Hello World");
- }
-}
-```
+​			public static void main(String args[]){
+
+​			System.out.println("Hello World");
+
+​		 }
+​	}"
+  align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
