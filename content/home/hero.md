@@ -62,12 +62,12 @@ image_parallax = true
 
 # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 
+Software Enthusiast
+
+Fullstack Developer
+
+Graduate Student
 
 
-+++
-
-# The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)
-
-# Build **Anything** with Widgets
 
 
