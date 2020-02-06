@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Tata Consultancy Services"
   company_url = "https://www.tcs.com"
   location = "Hyderabad, India"
-  date_start = "07/13/2017"
-  date_end = "07/31/2019"
+  date_start = "2017-07-13"
+  date_end = "2019-07-31"
   description = """
   Responsibilities include:
 
