@@ -57,10 +57,17 @@ image_parallax = true
   icon_pack = "fas"
   icon = "download"
 
-```html
-~~~~
-Software Enthusiast
-FullStack Developer
-~~~~
-```
+# Note. An optional note to show underneath the links.
+# [cta_note]  
+
+# label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+
+
+
++++
+
+# The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)
+
+# Build **Anything** with Widgets
+
 
