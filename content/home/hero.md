@@ -62,8 +62,12 @@ image_parallax = true
 
 # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 
+
+
++++
+
 # Software Enthusiast
 
-# Fullstack Developer
+# FullStack Developer
 
 
