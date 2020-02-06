@@ -42,7 +42,7 @@ subtitle = ""
   icon = "css3-alt"
   icon_pack = "fab"
   name = "CSS"
-  description = ""  c
+  description = ""
 
 [[feature]]
   icon = "android"
