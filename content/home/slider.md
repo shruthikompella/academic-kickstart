@@ -45,7 +45,7 @@ height = ""
 
 [[item]]
   title = "Hello"
-  content = "Toast.makeText(getActivity(), 'This is my Toast message!',Toast.LENGTH_LONG).show();"
+  content = "Toast.makeText(getActivity(), 'I can develop APPS !',Toast.LENGTH_LONG).show();"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
