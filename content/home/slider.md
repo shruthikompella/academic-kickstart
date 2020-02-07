@@ -11,7 +11,7 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
+height = "800px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -24,7 +24,7 @@ height = ""
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "hero.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -41,7 +41,7 @@ height = ""
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "hero.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
 cta_label = "Resume"
   cta_url = "https://shruthikompella.netlify.com/files/cv.pdf"
@@ -55,7 +55,7 @@ cta_label = "Resume"
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "hero.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
 cta_label = "Resume"
   cta_url = "https://shruthikompella.netlify.com/files/cv.pdf"
