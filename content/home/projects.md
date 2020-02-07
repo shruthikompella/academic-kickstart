@@ -21,7 +21,7 @@ title = "Projects"
 
 date_format = "Jan 2006"
 
-# Experiences.
+# Projects.
 
 #   Add/remove as many `[[project]]` blocks below as you like.
 
