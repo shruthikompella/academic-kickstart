@@ -8,77 +8,43 @@ weight = 65  # Order that this section will appear.
 tags = ["Deep Learning", "Demo"]
 
 title = "Projects"
-subtitle = "jjjjjjj"
+
 
 [content]
+
   # Page type to display. E.g. project.
   page_type = "project"
 
-  # System User homescreen
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
+# Date format for experience
 
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 
-[[content.filter_button]]
+date_format = "Jan 2006"
 
-name = "All"
+# Experiences.
 
-tag = "*"
+#   Add/remove as many `[[project]]` blocks below as you like.
 
-[[content.filter_button]]
+#   Required fields are `title`, `company`, and `date_start`.
 
-name = "Deep Learning"
+#   Leave `date_end` empty if it's your current employer.
 
-tag = "Deep Learning"
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[content.filter_button]]
+[[project]]
+  title = "Software Engineer - AEM Developer"
+  company = "Tata Consultancy Services"
+  company_url = "https://www.tcs.com"
+  location = "Hyderabad, India"
+  date_start = "2017-07-13"
+  date_end = "2019-07-31"
+  description = """
+  Responsibilities include:
 
-name = "Other"
+  * Analysing
+  * Modelling
+  * Deploying
+    """
 
-tag = "Demo"
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view = 3
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows = true
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-
-[advanced]
- # Custom CSS. 
- css_style = ""
-
- # CSS class.
- css_class = ""
 +++
 
