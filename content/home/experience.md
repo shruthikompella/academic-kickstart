@@ -25,11 +25,10 @@ date_format = "Jan 2006"
   date_start = "2017-07-13"
   date_end = "2019-07-31"
   description = """
-  Responsibilities include:
 
-  * Analysing
-  * Modelling
-  * Deploying
+  * Working experience with AEM 6.x templates and components, OSGI Services, Clientlibs, Servlets, Sightly, Sling API, JQuery, Bootstrap, HTML and CSS.
+  * Involved in all phases of software development life cycle(includes development, testing, documentation and maintenance).
+  * Played a prominent role in developing complete project from scratch using maven and Editable templates.
     """
 
 +++
