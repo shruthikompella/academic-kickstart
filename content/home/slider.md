@@ -44,12 +44,6 @@ height = ""
   overlay_img = "hero.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-[cta]
-  url = "https://shruthikompella.netlify.com/files/cv.pdf"
-  label = "Resume"
-  icon_pack = "fas"
-  icon = "download"
-
 [[item]]
   title = "Hello"
   content = "Toast.makeText(getActivity(), 'I can develop APPS !',Toast.LENGTH_LONG).show();"
@@ -58,11 +52,5 @@ height = ""
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "hero.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[cta]
-  url = "https://shruthikompella.netlify.com/files/cv.pdf"
-  label = "Resume"
-  icon_pack = "fas"
-  icon = "download"
 
 +++
