@@ -53,9 +53,9 @@ cta_label = "Resume"
   content = "Toast.makeText(getActivity(), 'I can develop APPS !',Toast.LENGTH_LONG).show();"
   align = "center"
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = "#666"  # An HTML color value.
   overlay_img = "hero.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.9  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 cta_label = "Resume"
   cta_url = "https://shruthikompella.netlify.com/files/cv.pdf"
