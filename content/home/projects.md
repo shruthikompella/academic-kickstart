@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 
 # Experiences.
 
-#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Add/remove as many `[[project]]` blocks below as you like.
 
 #   Required fields are `title`, `company`, and `date_start`.
 
@@ -31,19 +31,30 @@ date_format = "Jan 2006"
 
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "Software Engineer - AEM Developer"
-  company = "Tata Consultancy Services"
-  company_url = "https://www.tcs.com"
-  location = "Hyderabad, India"
-  date_start = "2017-07-13"
-  date_end = "2019-07-31"
-  description = """
-  Responsibilities include:
+[[project]]
+  title = "PEER-TO-PEER FILE SHARING"
+  company = "B.Tech Final year Project"
+  company_url = ""
+  location = "GITAM University, Visakhapatnam, India"
+  date_start = "2017-04-10"
+  date_end = ""
+  description = """  
 
-  * Analysing
-  * Modelling
-  * Deploying
+  * The project is P2P File Sharing Application with chat. This application enables the sharing of computer resources such as files by a direct exchange between end-user’s computers.
+  * Technologies Used : Java, MySQL
+    """
+
+[[project]]
+  title = "VOCABULARY BUILDER APP"
+  company = "Internship Project"
+  company_url = ""
+  location = "ASPIREVISION TECH EDUCATION Pvt. Ltd. | MICROSOFT TECHNOLOGY ASSOCIATE, Hyderabad, India"
+  date_start = "2016-05-31"
+  date_end = ""
+  description = """
+
+  * It is an Internship Project based on “Android Designing and Programming”. The application contains around 1000 words which are difficult but common words that appear in academic and business writing.
+  * Technologies Used : Android, PHP, MySQL
     """
 
 +++
