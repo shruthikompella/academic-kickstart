@@ -22,6 +22,7 @@ bio: I am an enthusiastic FullStack Developer, pursuing masters at University of
 
 interests:
 - FullStack Development
+- Data Structures and Algorithms
 - Artificial Intelligence
 - Big Data
 
@@ -71,11 +72,9 @@ Having gained considerable work experience of 2years in one of the leading IT fi
 
 Skilled in Core Java, Python, AEM, MySql, Android, HTML during my Bachelor's and Professional career. Extensive knowledge of software languages like C, C++, Core Java, Python, PHP.
 
-Areas of interest: "Web & Mobile Development" and  "Data Structures and Algorithms".
-
 Programming : C, C++, Java, PHP, Python 
 WebTechnologies : HTML, CSS, Javascript, HTL(AEM) 
-FRAMEWORKS : Bootstrap 
+FRAMEWORKS : Bootstrap, ReactJs, NodeJs
 Databases : MySQL 
 Tools : Eclipse, CRXDE, PyCharm, AndroidStudio, Jira, Jenkins, GIT, 
 Languages : English,Telugu,Hindi,Oriya
