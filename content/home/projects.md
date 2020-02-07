@@ -21,9 +21,9 @@ title = "Projects"
 
 date_format = "Jan 2006"
 
-# Projects.
+# Experiences.
 
-#   Add/remove as many `[[project]]` blocks below as you like.
+#   Add/remove as many `[[experience]]` blocks below as you like.
 
 #   Required fields are `title`, `company`, and `date_start`.
 
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[project]]
+[[experience]]
   title = "Software Engineer - AEM Developer"
   company = "Tata Consultancy Services"
   company_url = "https://www.tcs.com"
