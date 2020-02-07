@@ -5,8 +5,6 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-tags = ["Deep Learning", "Demo"]
-
 title = "Projects"
 
 
@@ -23,7 +21,7 @@ date_format = "Jan 2006"
 
 # Experiences.
 
-#   Add/remove as many `[[project]]` blocks below as you like.
+#   Add/remove as many `[[experience]]` blocks below as you like.
 
 #   Required fields are `title`, `company`, and `date_start`.
 
@@ -31,7 +29,7 @@ date_format = "Jan 2006"
 
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[project]]
+[[experience]]
   title = "PEER-TO-PEER FILE SHARING"
   company = "B.Tech Final year Project"
   company_url = ""
@@ -44,7 +42,7 @@ date_format = "Jan 2006"
   * Technologies Used : Java, MySQL
     """
 
-[[project]]
+[[experience]]
   title = "VOCABULARY BUILDER APP"
   company = "Internship Project"
   company_url = ""
