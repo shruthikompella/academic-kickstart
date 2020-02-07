@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   company = "B.Tech Final year Project"
   company_url = ""
   location = "GITAM University, Visakhapatnam, India"
-  date_start = "2017-04-10"
-  date_end = ""
+  date_start = "2016-12-01"
+  date_end = "2017-04-10"
   description = """  
 
   * The project is P2P File Sharing Application with chat. This application enables the sharing of computer resources such as files by a direct exchange between end-user’s computers.
@@ -47,8 +47,8 @@ date_format = "Jan 2006"
   company = "Internship Project"
   company_url = ""
   location = "ASPIREVISION TECH EDUCATION Pvt. Ltd. | MICROSOFT TECHNOLOGY ASSOCIATE, Hyderabad, India"
-  date_start = "2016-05-31"
-  date_end = ""
+  date_start = "2016-05-01"
+  date_end = "2016-05-31"
   description = """
 
   * It is an Internship Project based on “Android Designing and Programming”. The application contains around 1000 words which are difficult but common words that appear in academic and business writing.
