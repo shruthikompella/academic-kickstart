@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   date_end = "2019-10-12"
   description = """
 
-  * Developed two different photo-album applications using below technologies, in which you can upload, delete and browse photographs which are stored on the web server as files.
+  * Developed two different photo-album applications using below mentioned technologies, in which you can upload, delete and browse photographs which are stored on the web server as files.
 
   * Technologies Used : 1. PHP  2. Cloud Storage (Dropbox API)
 
