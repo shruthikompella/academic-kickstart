@@ -73,9 +73,15 @@ Having gained considerable work experience of 2 years in one of the leading IT f
 Skilled in Core Java, Python, AEM, MySql, Android, HTML during my Bachelor's and Professional career. Extensive knowledge of software languages like C, C++, Core Java, Python, PHP.
 
 Programming : C, C++, Java, PHP, Python 
+
 WebTechnologies : HTML, CSS, Javascript, HTL(AEM)
+
 FRAMEWORKS : Bootstrap, ReactJs, NodeJs
-Databases : MySQL 
+
+Databases : MySQL, SQLite 
+
 Tools : Eclipse, CRXDE, PyCharm, AndroidStudio, Jira, Jenkins, GIT
+
 A bit of Knowledge in : DOM and SAX Parsers, XPATH,XSLT, XQUERY, XML
+
 Languages : English,Telugu,Hindi,Oriya
