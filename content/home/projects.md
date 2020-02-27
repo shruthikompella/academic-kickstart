@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Web Mashup: Display House Prices on a Map"
+  title = "WEB MASHUP : DISPLAY HOUSE PRICES ON A MAP"
   company = "Project"
   company_url = ""
   location = "University Of Texas at Arlington"
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
     """
 
 [[experience]]
-  title = "Photo Album Application"
+  title = "PHOTO ALBUM APPLICATION"
   company = "Project"
   company_url = ""
   location = "University Of Texas at Arlington"
@@ -64,7 +64,7 @@ date_format = "Jan 2006"
     """
 
 [[experience]]
-  title = "A Message Board"
+  title = "A MESSAGE BOARD"
   company = "Project"
   company_url = ""
   location = "University Of Texas at Arlington"
