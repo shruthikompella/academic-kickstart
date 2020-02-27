@@ -30,6 +30,55 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Web Mashup: Display House Prices on a Map"
+  company = "Project"
+  company_url = ""
+  location = "University Of Texas at Arlington"
+  date_start = "2016-05-01"
+  date_end = "2016-05-31"
+  description = """
+
+  * Created a web mashup that combines two web services: Google Maps and the Zillow API.
+
+  * The program inserts an overlay marker on the Google map pinned on the latest house that displays the house's postal address and its Zestimate value (the house value) from zillow.com. 
+
+  * Technologies Used : JavaScript and AJAX
+
+  * Web Services Used : Real Estate API, Geocoding and Reverse Geocoding, Google Map Markers
+
+    """
+
+[[experience]]
+  title = "Photo Album Application"
+  company = "Project"
+  company_url = ""
+  location = "University Of Texas at Arlington"
+  date_start = "2016-05-01"
+  date_end = "2016-05-31"
+  description = """
+
+  * Developed two different photo-album applications using below technologies, in which you can upload, delete and browse photographs which are stored on the web server as files.
+
+  * Technologies Used : 1. PHP  2. Cloud Storage (Dropbox API)
+
+    """
+
+[[experience]]
+  title = "A Message Board"
+  company = "Project"
+  company_url = ""
+  location = "University Of Texas at Arlington"
+  date_start = "2016-05-01"
+  date_end = "2016-05-31"
+  description = """
+
+  * Creates a message board where registered users can post messages.
+
+  * Technologies Used : PHP, MySQL
+
+    """
+
+[[experience]]
   title = "PEER-TO-PEER FILE SHARING"
   company = "B.Tech Final year Project"
   company_url = ""
@@ -52,8 +101,12 @@ date_format = "Jan 2006"
   description = """
 
   * It is an Internship Project based on “Android Designing and Programming”. The application contains around 1000 words which are difficult but common words that appear in academic and business writing.
+
   * Technologies Used : Android, PHP, MySQL
+    
     """
+
+
 
 +++
 
