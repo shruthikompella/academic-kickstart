@@ -72,7 +72,7 @@ date_format = "Jan 2006"
   date_end = "2019-11-18"
   description = """
 
-  * Creates a message board where registered users can post messages.
+  * Created a message board where registered users can post messages.
 
   * Technologies Used : PHP, MySQL
 
