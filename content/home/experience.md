@@ -32,11 +32,11 @@ date_format = "Jan 2006"
 
   * Played a prominent role in developing complete project from scratch using maven and Editable templates.
 
-  * Worked on creating components like Foundation Components Implementation, Reference implementation, Three-level Menu using Servlets, Editable templates and Sightly.
+  * In AEM 6.4 - Worked on creating components like Foundation Components Implementation, Reference implementation, Three-level Menu using Servlets, Editable templates and Sightly.
 
-  * Worked on creating complex components like Reference implementation, Sorting pages based on date using sightly, servlets and sling models.
+  * In AEM 6.2 - Worked on creating complex components like Reference implementation, Sorting pages based on date using sightly, servlets and sling models.
 
-  * Worked on creating editable templates, components with nested multifields, ClientLibs and MSM implementation.
+  * In AEM 6.2 - Worked on creating editable templates, components with nested multifields, ClientLibs and MSM implementation.
 
     """
 
