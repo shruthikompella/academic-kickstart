@@ -70,7 +70,7 @@ As a person, I am self-ambitious, self-motivated, goal-focused and confident. Th
 
 Having gained considerable work experience of 2 years in one of the leading IT firms, "Tata Consultancy Services(TCS)", I am now pursuing my Masters in Computer Science at the "University of Texas at Arlington" to delve deeper into the areas of my interest.
 
-Skilled in Core Java, Python, AEM, MySql, Android, HTML during my Bachelor's and Professional career. Extensive knowledge of software languages like C, C++, Core Java, Python, PHP.
+Skilled in Core Java, Python, AEM, MySql, Android, HTML during my Bachelor's and Professional career.
 
 Programming : C, C++, Java, PHP, Python 
 
