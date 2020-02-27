@@ -21,7 +21,7 @@ organizations:
 bio: I am an enthusiastic FullStack Developer, pursuing masters at University of Texas at Arlington with 2 years of IT experience in Software Development.
 
 interests:
-- FullStack Development
+- Full Stack Development
 - Data Structures and Algorithms
 - Artificial Intelligence
 - Big Data
@@ -68,7 +68,7 @@ user_groups:
 
 As a person, I am self-ambitious, self-motivated, goal-focused and confident. There is a drive-in me to excel in whatever task I undertake. I love challenges and never hesitate to work extra hard to achieve the objectives.
 
-Having gained considerable work experience of 2years in one of the leading IT firms, "Tata Consultancy Services(TCS)", I am now pursuing my Masters in Computer Science at the "University of Texas at Arlington" to delve deeper into the areas of my interest.
+Having gained considerable work experience of 2 years in one of the leading IT firms, "Tata Consultancy Services(TCS)", I am now pursuing my Masters in Computer Science at the "University of Texas at Arlington" to delve deeper into the areas of my interest.
 
 Skilled in Core Java, Python, AEM, MySql, Android, HTML during my Bachelor's and Professional career. Extensive knowledge of software languages like C, C++, Core Java, Python, PHP.
 
