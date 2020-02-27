@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   company = "Project"
   company_url = ""
   location = "University Of Texas at Arlington"
-  date_start = "2019"
-  date_end = "2019"
+  date_start = "2019-09-05"
+  date_end = "2019-09-08"
   description = """
 
   * Created a web mashup that combines two web services: Google Maps and the Zillow API.
@@ -53,8 +53,8 @@ date_format = "Jan 2006"
   company = "Project"
   company_url = ""
   location = "University Of Texas at Arlington"
-  date_start = "2019"
-  date_end = "2019"
+  date_start = "2019-10-10"
+  date_end = "2019-10-12"
   description = """
 
   * Developed two different photo-album applications using below technologies, in which you can upload, delete and browse photographs which are stored on the web server as files.
@@ -68,8 +68,8 @@ date_format = "Jan 2006"
   company = "Project"
   company_url = ""
   location = "University Of Texas at Arlington"
-  date_start = "2019"
-  date_end = "2019"
+  date_start = "2019-11-16"
+  date_end = "2019-11-18"
   description = """
 
   * Creates a message board where registered users can post messages.
