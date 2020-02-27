@@ -27,8 +27,17 @@ date_format = "Jan 2006"
   description = """
 
   * Working experience with AEM 6.x templates and components, OSGI Services, Clientlibs, Servlets, Sightly, Sling API, JQuery, Bootstrap, HTML and CSS.
+
   * Involved in all phases of software development life cycle(includes development, testing, documentation and maintenance).
+
   * Played a prominent role in developing complete project from scratch using maven and Editable templates.
+
+  * Worked on creating components like Foundation Components Implementation, Reference implementation, Three-level Menu using Servlets, Editable templates and Sightly.
+
+  * Worked on creating complex components like Reference implementation, Sorting pages based on date using sightly, servlets and sling models.
+
+  * Worked on creating editable templates, components with nested multifields, ClientLibs and MSM implementation.
+
     """
 
 +++
