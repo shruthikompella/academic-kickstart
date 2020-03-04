@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-## <span style="color:#08c">Submission to Kaggle Competition (Real or Not? NLP with Disaster Tweets) </span><span style="color:#5e081a"> [Click Here](https://www.kaggle.com/knshruthikompella/kernel26cbbf7b4e) </span>
+## <span style="color:#6b223b">Submission to Kaggle Competition (Real or Not? NLP with Disaster Tweets) </span><span style="color:#5e081a"> [Click Here](https://www.kaggle.com/knshruthikompella/kernel26cbbf7b4e) </span>
 
 As a person, I am self-ambitious, self-motivated, goal-focused and confident. There is a drive-in me to excel in whatever task I undertake. I love challenges and never hesitate to work extra hard to achieve the objectives.
 
