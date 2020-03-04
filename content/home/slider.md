@@ -39,6 +39,8 @@ height = ""
   content = "print('I am A FullStack Developer')"
   align = "center"
 
+> Submission to Kaggle Competition [Click Here](https://www.kaggle.com/knshruthikompella/kernel26cbbf7b4e)
+
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "hero.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
