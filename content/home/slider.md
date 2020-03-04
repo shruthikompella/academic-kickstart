@@ -36,9 +36,7 @@ height = ""
 
 [[item]]
   title = "Hello"
-  content = "print('I am A FullStack Developer')
-
-Submission to Kaggle Competition [Click Here](https://www.kaggle.com/knshruthikompella/kernel26cbbf7b4e)"
+  content = "print('I am A FullStack Developer')"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
