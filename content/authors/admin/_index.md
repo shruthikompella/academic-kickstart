@@ -66,6 +66,8 @@ user_groups:
 - Visitors
 ---
 
+## Submission to Kaggle Competition (Real or Not? NLP with Disaster Tweets)  [Click Here](https://www.kaggle.com/knshruthikompella/kernel26cbbf7b4e)
+
 As a person, I am self-ambitious, self-motivated, goal-focused and confident. There is a drive-in me to excel in whatever task I undertake. I love challenges and never hesitate to work extra hard to achieve the objectives.
 
 Having gained considerable work experience of 2 years in one of the leading IT firms, "Tata Consultancy Services(TCS)", I am now pursuing my Masters in Computer Science at the "University of Texas at Arlington" to delve deeper into the areas of my interest.
