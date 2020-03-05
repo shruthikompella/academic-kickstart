@@ -358,7 +358,7 @@ sns.barplot(train['target'].value_counts().index,train['target'].value_counts(),
 
 
 
-![png](./myblog_14_1.png)
+![Target Data](myblog_14_1.png)
 
 <span style="color:#008abc">**Importing Major Libraries ..**</span>
 
