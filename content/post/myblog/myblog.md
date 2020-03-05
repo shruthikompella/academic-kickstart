@@ -4,6 +4,8 @@
 
 # <span style="font-family:Montserrat">Real or Not? NLP with Disaster Tweets</span>
 
+![Kaggle Cover](https://shruthikompella.netlify.com/post/myblog/Kagglecover.PNG)
+
 #### 
 
 > #### Predict which Tweets are about real disasters and which ones are not ...???
