@@ -358,7 +358,7 @@ sns.barplot(train['target'].value_counts().index,train['target'].value_counts(),
 
 
 
-![Target Data](myblog_14_1.png)
+![Target Data](https://shruthikompella.netlify.com/post/myblog/myblog_14_1.png)
 
 <span style="color:#008abc">**Importing Major Libraries ..**</span>
 
@@ -426,7 +426,7 @@ ax2.set_title('Non Disaster Tweets',fontsize=30);
 ```
 
 
-![png](./myblog_19_0.png)
+![WordCloud](https://shruthikompella.netlify.com/post/myblog/myblog_19_0.png)
 
 
 ## ***DATA CLEANSING***
