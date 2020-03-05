@@ -56,7 +56,7 @@ train_data = pd.read_csv('/kaggle/input/nlp-getting-started/train.csv')
 test_data = pd.read_csv('/kaggle/input/nlp-getting-started/test.csv')
 ```
 
-><span style="color:#008abc">***Let's see how train and test data looks like .. ***</span>
+><span style="color:#008abc">**Let's see how train and test data looks like .. **</span>
 
 
 ```python
@@ -177,9 +177,11 @@ test_data.head()
     </tr>
   </tbody>
 </table>
+
+
 # <span style="color:#008abc">2. Treating the Missing Values</span>
 
-><span style="color:#008abc">***Fill out the missing values with a keyword ..***</span>
+><span style="color:#008abc">**Fill out the missing values with a keyword ..**</span>
 
 
 ```python
@@ -282,7 +284,7 @@ test_data.fillna('Unavailable') # fill out the missing values in the test datase
 <p>3263 rows × 4 columns</p>
 
 
-><span style="color:#008abc">***I have used Deleting Columns technique. I have just considered text & target columns of train data and id & text columns of test data ..***</span>
+><span style="color:#008abc">**I have used Deleting Columns technique. I have just considered text & target columns of train data and id & text columns of test data ..**</span>
 >
 > Also, Let's see how the data looks like..
 
@@ -358,7 +360,7 @@ sns.barplot(train['target'].value_counts().index,train['target'].value_counts(),
 
 ![png](./myblog_14_1.png)
 
-<span style="color:#008abc">***Importing Major Libraries ..***</span>
+<span style="color:#008abc">**Importing Major Libraries ..**</span>
 
 ```python
 import logging
@@ -379,7 +381,7 @@ from bs4 import BeautifulSoup
 # <span style="color:#008abc">4. Data Preprocessing</span>
 >[Reference for Text Preprocessing](https://towardsdatascience.com/nlp-for-beginners-cleaning-preprocessing-text-data-ae8e306bef0f) <- Click here
 >
-><span style="color:#008abc">***Tweets, Wordcount & Wordcloud ..***</span>
+><span style="color:#008abc">**Tweets, Wordcount & Wordcloud ..**</span>
 
 
 ```python
@@ -559,7 +561,7 @@ train.head()
 
 
 ## ***COMPARING DATA***
-><span style="color:#008abc">***The data on the left is the raw data and the one on the right is the data after cleaning ..***</span>
+><span style="color:#008abc">**The data on the left is the raw data and the one on the right is the data after cleaning ..**</span>
 
 
 ```python
@@ -634,7 +636,7 @@ result
 </table>
 
 
->  <span style="color:#008abc">**Model_selection** is a method for setting a **blueprint** to analyze data and then using it to measure new data. Selecting a proper model allows you to generate **accurate results** when making a prediction.To do that, you need to **train your model** by using a specific dataset. Then, you test the model against another dataset.If you have **one dataset**, you'll need to split it by using the Sklearn `train_test_split` function first.</span>
+> <span style="color:#008abc">**Model_selection** is a method for setting a **blueprint** to analyze data and then using it to measure new data. Selecting a proper model allows you to generate **accurate results** when making a prediction.To do that, you need to **train your model** by using a specific dataset. Then, you test the model against another dataset.If you have **one dataset**, you'll need to split it by using the Sklearn `train_test_split` function first.</span>
 
 `train_test_split` is a function in **Sklearn model selection** for splitting data arrays into **two subsets**: for training data and for testing data. With this function, you don't need to divide the dataset manually.
 
@@ -689,7 +691,7 @@ print(classification_report(y_test, y_pred))
 
 ​    
 
-><span style="color:#008abc">***Target Column of Test Data ..***</span>
+><span style="color:#008abc">**Target Column of Test Data ..**</span>
 
 
 ```python
