@@ -178,6 +178,7 @@ test_data.head()
   </tbody>
 </table>
 # <span style="color:#008abc">2. Treating the Missing Values</span>
+
 ><span style="color:#008abc">***Fill out the missing values with a keyword ..***</span>
 
 
