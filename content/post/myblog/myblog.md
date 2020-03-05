@@ -7,10 +7,6 @@ title = "Blog"
 
 [content]
 
-  # Page type to display. E.g. blog.
-
-  page_type = "blog"
-
 # Date format for experience
 
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
