@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Blog"
-  url = "content/post/myblog/myblog.md"
+  url = "content/post/myblog.md"
   weight = 60
 
 [[main]]
