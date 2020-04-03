@@ -129,7 +129,6 @@ iris_dataset
 <p>150 rows × 5 columns</p>
 
 
-
 ### It is very important to well shuffle the dataset to avoid any element of bias/patterns
 
 
@@ -243,7 +242,6 @@ iris_dataset
   </tbody>
 </table>
 <p>150 rows × 5 columns</p>
-
 ### Adding the "target column" for our convenience to predict the values and have a look at the data
 
 
@@ -371,7 +369,6 @@ iris_dataset
   </tbody>
 </table>
 <p>150 rows × 6 columns</p>
-
 ### Dataframe to Ndarray
 > Creating X(attributes) and y(target) and then converting to ndarray for easy calculations
 
@@ -486,7 +483,7 @@ plt.show()
 ```
 
 
-![Scatterplot](C:/Users/shrut/OneDrive/Documents/GitHub/academic-kickstart/content/post/knn/output_20_0.png)
+![Scatterplot](https://shruthikompella.netlify.com/post/knn/output_20_0.png)
 
 
 ### Developed a custom KNN classifier and calculated the distances using following distance metrics 
@@ -783,7 +780,7 @@ ax.set_xticklabels(k_hyperparameter)
 
 
 
-![Barchart](C:/Users/shrut/OneDrive/Documents/GitHub/academic-kickstart/content/post/knn/output_34_1.png)
+![Barchart](https://shruthikompella.netlify.com/post/knn/output_34_1.png)
 
 
 ###  <span style="color:#d5670f">Classify the test data and calculate the accuracy</span>
