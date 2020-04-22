@@ -42,6 +42,22 @@ df_pos.head()
 ```
 
 
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -84,6 +100,8 @@ df_pos.head()
     </tr>
   </tbody>
 </table>
+</div>
+
 
 
 
@@ -116,12 +134,11 @@ df_neg.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
 </style>
-
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -193,7 +210,7 @@ movie_dataset
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -300,7 +317,7 @@ movie_dataset
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -447,7 +464,7 @@ dev_df_list[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -552,7 +569,7 @@ train_df_list[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -674,7 +691,7 @@ train_df_list[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -780,7 +797,7 @@ dev_df_list[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -895,7 +912,7 @@ train_df_list[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -1000,7 +1017,7 @@ dev_df_list[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -1168,7 +1185,7 @@ train_df_list[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -1288,7 +1305,7 @@ for i in range(len(train_split_df_list)):
     25751
     25833
     25878
-
+    
 
 
 ```python
@@ -3363,7 +3380,7 @@ train_df_list[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -3479,7 +3496,7 @@ dev_df_list[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -3599,7 +3616,7 @@ pos_data[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -3704,7 +3721,7 @@ neg_data[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -22011,7 +22028,7 @@ print(pd.Series(pos_comp_list[1]).str.count('one'))
     952157    0
     952158    0
     Length: 952159, dtype: int64
-
+    
 
 
 ```python
@@ -36280,7 +36297,7 @@ dev_df_list[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -36446,7 +36463,7 @@ dev_df_list[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -47835,6 +47852,20 @@ dev_df_list[0]
 
 
 
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -48017,7 +48048,7 @@ dev_df_list[0]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -48227,7 +48258,7 @@ df_pos.head(10)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -48338,7 +48369,7 @@ df_neg.head(10)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -48438,7 +48469,7 @@ movie_dataset_test
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -48545,7 +48576,7 @@ movie_dataset_test
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -48651,7 +48682,7 @@ movie_dataset_test
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -48757,7 +48788,7 @@ movie_dataset_test
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -50894,7 +50925,7 @@ movie_dataset_test
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -51005,7 +51036,7 @@ pos_data_test
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -53257,7 +53288,7 @@ movie_dataset_test
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -53400,6 +53431,1018 @@ class_lst = add_class(movie_dataset_test['Positive'],movie_dataset_test['Negativ
 
 
 ```python
+class_lst
+```
+
+
+
+
+    ['neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     '-',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'neg',
+     '-',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     '-',
+     'neg',
+     'pos',
+     'pos',
+     '-',
+     'neg',
+     '-',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     '-',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     '-',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     '-',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     '-',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     '-',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     '-',
+     '-',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'pos',
+     '-',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     '-',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     '-',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     '-',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'neg',
+     '-',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     '-',
+     'neg',
+     '-',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'neg',
+     'pos',
+     'pos',
+     '-',
+     'pos',
+     '-',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     '-',
+     'neg',
+     'neg',
+     'neg',
+     '-',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     '-',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     '-',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     '-',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     '-',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'pos',
+     'neg',
+     '-',
+     '-',
+     '-',
+     'neg',
+     'neg',
+     '-',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     '-',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     '-',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     '-',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     '-',
+     'pos',
+     '-',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     '-',
+     '-',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     '-',
+     'pos',
+     'neg',
+     'neg',
+     '-',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     '-',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     '-',
+     '-',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     '-',
+     'neg',
+     'pos',
+     'neg',
+     '-',
+     'neg',
+     'neg',
+     '-',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     '-',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     '-',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     '-',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     '-',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     '-',
+     '-',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     '-',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     '-',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     '-',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     '-',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'neg',
+     'pos',
+     'neg',
+     '-',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     '-',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     '-',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     '-',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     '-',
+     '-',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     '-',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     '-',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     '-',
+     '-',
+     'pos',
+     'neg',
+     '-',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     '-',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     '-',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     '-',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     'pos',
+     'pos',
+     'neg',
+     'pos',
+     'neg',
+     'pos',
+     'pos',
+     'neg',
+     'neg',
+     'pos',
+     'neg',
+     'neg',
+     'neg',
+     'pos',
+     '-',
+     ...]
+
+
+
+
+```python
 movie_dataset_test['NewClass'] = np.array(class_lst)
 ```
 
@@ -53422,16 +54465,3 @@ test_accuracy
 
 
 ## test data accuracy = 81.532
-
-## References :
-1. [Naive Bayes Classifier Concept](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
-2. [Laplace Smoothing 1](https://www.quora.com/How-does-Laplacian-add-1-smoothing-work-for-a-Naive-Bayes-classfier-algorithm/answer/Steven-Chu-9?ch=3&share=46a97ea6&srid=uN4n5)
-3. [Laplace Smoothing 2](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/)
-
-
-
-
-
-```python
-
-```
