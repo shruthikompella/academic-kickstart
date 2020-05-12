@@ -388,7 +388,7 @@ k_new.most_common(15)
 
 
 
-#### We can see that there are records with rating = 7.0 before and after elimination of records
+#### We can see that there are highest records with rating = 7.0 before and after elimination of records
 
 
 ```python
