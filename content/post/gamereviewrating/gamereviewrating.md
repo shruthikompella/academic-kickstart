@@ -399,11 +399,11 @@ plt.show()
 ```
 
 
-![graph1](https://shruthikompella.netlify.com/post/gamereviewrating/gamereviewrating/output_24_0.png)
+![png](output_24_0.png)
 
 
 
-![graph2](https://shruthikompella.netlify.com/post/gamereviewrating/gamereviewrating/output_24_1.png)
+![png](output_24_1.png)
 
 
 ## Loading the New Data into csv file
