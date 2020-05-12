@@ -44,13 +44,18 @@
   weight = 80
 
 [[main]]
+  name = "GameReviewRating"
+  url = "post/gamereviewrating/gamereviewrating"
+  weight = 90
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 90
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
     url = "files/cv.pdf"
-    weight = 80
+    weight = 110
